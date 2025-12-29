@@ -38,8 +38,4 @@ SELECT * FROM ESTADO;
 
 ## Autor
 
-Adonay Rocha
-
-## Licença
-
-Este projeto está sob a licença MIT.
+Adonay Rocha | Renê De Ávila
